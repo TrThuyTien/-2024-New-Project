@@ -1,3 +1,4 @@
+
 # CHESS STRESS
 ## Creating Online Chess
 - Language: Python
@@ -15,3 +16,6 @@
 ### Chat
 - Reference:
     + https://www.geeksforgeeks.org/simple-chat-room-using-python/
+# [2024]New-Project lan 2
+
+
