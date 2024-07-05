@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+#Some ?
+=======
 
 
 # CHESS STRESS
@@ -24,3 +27,4 @@
 #Clone
 #clon3
 
+>>>>>>> 2e3d70091b3e666402f1959d2c1e41c3464d67ba
